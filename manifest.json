@@ -1,6 +1,6 @@
 {
-    "name": "covid19visualization",
-    "short_name": "covid19visualization",
+    "name": "Stime COVID-19 in Italia",
+    "short_name": "Stime COVID-19 in Italia",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
